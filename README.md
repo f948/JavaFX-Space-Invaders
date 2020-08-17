@@ -24,7 +24,7 @@ IDE like eclipse or netbeans to import the project files and run them
 
 # To make the code work 
 
-First download the zip file "Tetris.zip"
+First download the zip file "Space Invaders.zip"
 Use your Java IDE to import the zip file that contains all the project files
 Then open up the "src" folder and right click on the  file that you would like to run and click"Run File"
   
